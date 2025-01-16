@@ -1,1 +1,13 @@
- 
+{
+    "slack_webhook_url": "YOUR_SLACK_WEBHOOK_URL",
+    "sites": [
+        {
+            "url": "https://example.com",
+            "comment": "Example Site"
+        },
+        {
+            "url": "http://example.onion",
+            "comment": "Example Onion Site"
+        }
+    ]
+}  
